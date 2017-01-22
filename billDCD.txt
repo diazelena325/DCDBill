@@ -1,0 +1,20 @@
+Type of Door: 101  Quantity: 30  Type of Wood: Maple
+Total for Door(s): $1350.00
+Type of Door: 101  Quantity: 70  Type of Wood: Ash
+Total for Door(s): $3850.00
+Type of Door: 103  Quantity: 20  Type of Wood: Mdf
+Total for Door(s): $1500.00
+Type of Door: 102  Quantity: 15  Type of Wood: Ash
+Total for Door(s): $1125.00
+Type of Door: 101  Quantity: 5  Type of Wood: Mdf
+Total for Door(s): $200.00
+Type of Door: 103  Quantity: 47  Type of Wood: Maple
+Total for Door(s): $3760.00
+Type of Door: 102  Quantity: 2  Type of Wood: Maple
+Total for Door(s): $130.00
+
+Account Number: 3948029
+Delivery Fee: $100.00
+Installation Fee: $250.00
+
+Total for Order: $12265.00
