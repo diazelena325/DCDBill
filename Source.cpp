@@ -1,3 +1,5 @@
+//Created by: Elena Diaz
+//Date: 1/22/2017
 //Calculate Cabinet Doors Price
 
 //get type of door: 101, 102, 103
